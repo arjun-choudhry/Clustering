@@ -1,5 +1,5 @@
 # **********************************************************************************************************
-# Finding the cluster of clients based on annual income and spending score using K-Means
+# Finding the cluster of clients based on annual income and spending score using Hierarchial Clustering
 # **********************************************************************************************************
 
 # Importing dataset
